@@ -1,0 +1,42 @@
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\kinga\source\repos\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\kinga\source\repos\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\kinga\Desktop\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\kinga\Desktop\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Jeancarlosmosquera3B\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache
