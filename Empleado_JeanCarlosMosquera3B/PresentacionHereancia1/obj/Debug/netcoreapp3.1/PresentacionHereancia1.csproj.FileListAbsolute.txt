@@ -1,0 +1,14 @@
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.exe
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.deps.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.runtimeconfig.dev.json
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\bin\Debug\netcoreapp3.1\PresentacionHereancia1.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.dll
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.pdb
+C:\Users\Windows 10\Desktop\Jean Carlos Mosquera Parraga\3er Semestre\Programacion Objetos\Herencia\PresentacionHereancia1\PresentacionHereancia1\obj\Debug\netcoreapp3.1\PresentacionHereancia1.genruntimeconfig.cache
