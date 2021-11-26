@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pila_JeanCarlosMosquera3B/1.0.0": {
+        "runtime": {
+          "Pila_JeanCarlosMosquera3B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pila_JeanCarlosMosquera3B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
